@@ -1,6 +1,7 @@
-git add .
-git commit 
-git branch
-git push
-git checkout
 git clone
+git add
+git commit
+git push
+git pull
+git branch
+git switch
